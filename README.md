@@ -4,12 +4,8 @@ matlab code
   Tensor N-tubal rank and its convex relaxation for low-rank tensor recover
 ******************************************************************************
 
-         Copyright:  Yu-Bang Zheng, 
-Ting-Zhu Huang, 
-Xi-Le Zhao,
-
-                    Tai-Xiang Jiang, 
-Teng-Yu Ji, and Tian-Hui Ma
+         Copyright:  Yu-Bang Zheng, Ting-Zhu Huang, Xi-Le Zhao,
+                    Tai-Xiang Jiang, Teng-Yu Ji, and Tian-Hui Ma
 
  1). Get Started
 
