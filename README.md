@@ -19,7 +19,7 @@ matlab code
 
  More detail can be found in [1]
 
-    [1] Y.-B. Zheng, T.-Z. Huang*, X.-L. Zhao*, T.-X. Jiang, T.-Y. Ji, and T.-H. Ma,
+    [1] Y.-B. Zheng, T.-Z. Huang*, X.-L. Zhao, T.-X. Jiang, T.-Y. Ji, and T.-H. Ma,
         Tensor N-tubal rank and its convex relaxation for low-rank tensor recover.
 
 
