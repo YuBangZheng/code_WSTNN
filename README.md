@@ -45,36 +45,35 @@ matlab code
 
  3). Citations
 
-    [1] Y.-B. Zheng, T.-Z. Huang*, X.-L. Zhao, T.-X. Jiang, T.-Y. Ji, and T.-H. Ma,
-        Tensor N-tubal rank and its convex relaxation for low-rank tensor recover.
+     [1] Y.-B. Zheng, T.-Z. Huang*, X.-L. Zhao, T.-X. Jiang, T.-Y. Ji, and T.-H. Ma,
+         Tensor N-tubal rank and its convex relaxation for low-rank tensor recover.
 
-    [2] J. Liu, P. Musialski, P. Wonka, and J. Ye,
-        Tensor completion for estimating missing values in visual data.
+     [2] J. Liu, P. Musialski, P. Wonka, and J. Ye,
+         Tensor completion for estimating missing values in visual data.
 
-    [3] Q. Zhao, L. Zhang, and A. Cichocki,
-        Bayesian CP factorization of incomplete tensors with automatic rank determination.
+     [3] Q. Zhao, L. Zhang, and A. Cichocki,
+         Bayesian CP factorization of incomplete tensors with automatic rank determination.
 
-    [4] X. Li, Y. Ye, and X. Xu,
-        Low-rank tensor completion with total variation for visual data inpainting.
+     [4] X. Li, Y. Ye, and X. Xu,
+         Low-rank tensor completion with total variation for visual data inpainting.
 
-    [5] T.-Y. Ji, T.-Z. Huang, X.-L. Zhao, T.-H. Ma, and L.-J. Deng,
-        A non-convex tensor rank approximation for tensor completion.
+     [5] T.-Y. Ji, T.-Z. Huang, X.-L. Zhao, T.-H. Ma, and L.-J. Deng,
+         A non-convex tensor rank approximation for tensor completion.
 
-    [6] Z. Zhang, G. Ely, S. Aeron, N. Hao, and M. Kilmer,
-        Novel methods for multilinear data completion and de-noising based on tensor-SVD.
+     [6] Z. Zhang, G. Ely, S. Aeron, N. Hao, and M. Kilmer,
+         Novel methods for multilinear data completion and de-noising based on tensor-SVD.
 
-    [7] T.-X. Jiang, T.-Z. Huang, X.-L. Zhao, and L.-J. Deng,
-        A novel nonconvex approach to recover the low-tubal-rank tensor data: when t-SVD meets PSSV.
+     [7] T.-X. Jiang, T.-Z. Huang, X.-L. Zhao, and L.-J. Deng,
+         A novel nonconvex approach to recover the low-tubal-rank tensor data: when t-SVD meets PSSV.
 
-    [8] W. Hu, D. Tao, W. Zhang, Y. Xie, and Y. Yang,
-        The twist tensor nuclear norm for video completion.
+     [8] W. Hu, D. Tao, W. Zhang, Y. Xie, and Y. Yang,
+         The twist tensor nuclear norm for video completion.
 
-    [9] D. Goldfarb and Z. T. Qin,
-        Robust low-rank tensor recovery: Models and algorithms.
-
-   [10] C. Lu, J. Feng, Y. Chen, W. Liu, Z. Lin, and S. Yan,
-        Tensor robust principal component analysis: Exact recovery of corrupted low-rank
-        tensors via convex optimization.
+     [9] D. Goldfarb and Z. T. Qin,
+         Robust low-rank tensor recovery: Models and algorithms.
+        
+    [10] C. Lu, J. Feng, Y. Chen, W. Liu, Z. Lin, and S. Yan,
+         Tensor robust principal component analysis: Exact recovery of corrupted low-rank tensors via convex optimization.
 
   4). Acknowledgments
 
