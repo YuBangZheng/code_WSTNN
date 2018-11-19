@@ -9,11 +9,10 @@ matlab code
 
  1). Get Started
 
- Run the following Demo to compare various methods for the corresponding data.
+ Run the following Demo to compare various methods.
 
-     [1] Demo_LRTC_HSI
-     [2] Demo_LRTC_MSI
-     [3] Demo_TRPCA_HSI
+     [1] Demo_LRTC
+     [2] Demo_TRPCA
   
 
  2). Details
