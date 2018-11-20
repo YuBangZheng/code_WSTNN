@@ -1,7 +1,7 @@
 # code_WSTNN
 matlab code
 ******************************************************************************
-  Tensor N-tubal rank and its convex relaxation for low-rank tensor recover
+  Tensor N-tubal rank and its convex relaxation for low-rank tensor recovery
 ******************************************************************************
 
          Copyright:  Yu-Bang Zheng, Ting-Zhu Huang, Xi-Le Zhao,
@@ -45,7 +45,7 @@ matlab code
  3). Citations
 
      [1] Y.-B. Zheng, T.-Z. Huang*, X.-L. Zhao, T.-X. Jiang, T.-Y. Ji, and T.-H. Ma,
-         Tensor N-tubal rank and its convex relaxation for low-rank tensor recover.
+         Tensor N-tubal rank and its convex relaxation for low-rank tensor recovery.
 
      [2] J. Liu, P. Musialski, P. Wonka, and J. Ye,
          Tensor completion for estimating missing values in visual data.
