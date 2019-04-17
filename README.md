@@ -7,7 +7,7 @@ matlab code
          Copyright:  Yu-Bang Zheng, Ting-Zhu Huang, Xi-Le Zhao,
                     Tai-Xiang Jiang, Teng-Yu Ji, and Tian-Hui Ma
                     
- Note: The decompression password of the Zip file can be found in [1].
+ Note: since this paper is under review, we have not made the password available online.
 
  1). Get Started
 
