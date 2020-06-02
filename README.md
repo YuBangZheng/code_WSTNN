@@ -28,9 +28,9 @@ matlab code
 
  The compared tensor robust principal component analysis methods listed as follows:
 
-     1. SNN          [4]    Tucker decomposition based method
-     2. TNN          [5]    Tucker decomposition based method
-     3. WSTNN        [1]    t-SVD based method 
+     1. SNN       [4]    Tucker decomposition based method
+     2. TNN       [5]    Tucker decomposition based method
+     3. WSTNN     [1]    t-SVD based method 
 
 
  3). Citations
